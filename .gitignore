@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+*.egg-info/
+*.egg
+*.log
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*.DS_Store
+
+# Operating System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.cab
+*.msi
+
+# Build and distribution directories
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.orig
+
+# Misc
+*.coverage
+*.pytest_cache/
