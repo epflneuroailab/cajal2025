@@ -7,7 +7,7 @@ We will use the Brain-Score platform to facilitate data and model loading.
 
 Overview:
 1. data
-   2. loading, inspecting, visualizing
+   1. loading, inspecting, visualizing
    2. analysis with linear probing
 2. modeling
    1. compare pre-computed alexnet activations with RDM
